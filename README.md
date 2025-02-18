@@ -3,52 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Calculator Project</title>
-  <style>
-    /* Basic CSS styling for the README */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f7f7f7;
-      margin: 0;
-      padding: 20px;
-      color: #333;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #4CAF50;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
-    }
-    h1, h2 {
-      margin: 0 0 15px;
-    }
-    section {
-      background-color: #fff;
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-      border-radius: 3px;
-    }
-    code {
-      font-family: Consolas, "Courier New", monospace;
-    }
-    a {
-      color: #4CAF50;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul, ol {
-      margin-left: 20px;
-    }
-  </style>
+
 </head>
 <body>
   <header>
@@ -105,7 +60,7 @@ public class Calculator extends JFrame implements ActionListener {
   <section>
     <h2>Contact</h2>
     <p>
-      For questions or feedback, please contact <a href="mailto:admin@example.com">admin@example.com</a>.
+      For questions or feedback, please contact <a href="mailto:admin@example.com">happyjabu165@gmail.com</a>.
     </p>
   </section>
 </body>
